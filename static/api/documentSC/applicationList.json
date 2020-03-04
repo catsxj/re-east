@@ -1,0 +1,20 @@
+{
+    "success": true,
+    "message": "success",
+    "code": 200,
+    "timestamp": 1572837484556,
+    "result": [
+        {
+            "id": 183,
+            "appCode": null,
+            "name": "demo-provider",
+            "displayName": null,
+            "description": null,
+            "children": null,
+            "envId": 112,
+            "regCenterId": 171,
+            "envName": null,
+            "registryName": null
+        }
+    ]
+}

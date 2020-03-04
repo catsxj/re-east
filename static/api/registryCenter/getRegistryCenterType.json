@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "timestamp": 1560420631575,
+  "result": [
+    {
+      "codeCategory": "registry_center_type",
+      "codeValue": "001",
+      "displayContent": "zookeeper",
+      "orderNumber": 1
+    },
+    {
+      "codeCategory": "registry_center_type",
+      "codeValue": "002",
+      "displayContent": "consul",
+      "orderNumber": 2
+    },
+    {
+      "codeCategory": "registry_center_type",
+      "codeValue": "003",
+      "displayContent": "eureka",
+      "orderNumber": 3
+    }
+  ]
+}

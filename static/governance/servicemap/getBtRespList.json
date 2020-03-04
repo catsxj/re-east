@@ -1,0 +1,51 @@
+{
+	"success": true,
+	"message": "success",
+	"code": 200,
+	"timestamp": 1566197751718,
+	"result": [{
+		"btId": null,
+		"internalName": "/api/datasurvey/queryResponseTime",
+		"reqCount": null,
+		"errorCalls": null,
+		"errPercent": null,
+		"mrespTime": "281.6944",
+		"mreqCount": null
+	},
+	{
+		"btId": null,
+		"internalName": "/api/datasurvey/queryCallNum",
+		"reqCount": null,
+		"errorCalls": null,
+		"errPercent": null,
+		"mrespTime": "279.3889",
+		"mreqCount": null
+	},
+	{
+		"btId": null,
+		"internalName": "/governance/statistics/findProandZkList",
+		"reqCount": null,
+		"errorCalls": null,
+		"errPercent": null,
+		"mrespTime": "278.4141",
+		"mreqCount": null
+	},
+	{
+		"btId": null,
+		"internalName": "/api/datasurvey/queryErrorTop10",
+		"reqCount": null,
+		"errorCalls": null,
+		"errPercent": null,
+		"mrespTime": "229.3409",
+		"mreqCount": null
+	},
+	{
+		"btId": null,
+		"internalName": "/api/datasurvey/queryServeTop10",
+		"reqCount": null,
+		"errorCalls": null,
+		"errPercent": null,
+		"mrespTime": "226.9545",
+		"mreqCount": null
+	}]
+}

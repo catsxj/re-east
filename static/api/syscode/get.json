@@ -1,0 +1,20 @@
+{
+    "success": true,
+    "message": "success",
+    "code": 200,
+    "timestamp": 1563178787777,
+    "result": [
+        {
+            "codeCategory": "protected_status",
+            "codeValue": "unprotected",
+            "displayContent": "可以访问",
+            "orderNumber": 1
+        },
+        {
+            "codeCategory": "protected_status",
+            "codeValue": "protected",
+            "displayContent": "不可访问",
+            "orderNumber": 2
+        }
+    ]
+}

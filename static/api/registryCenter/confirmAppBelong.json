@@ -1,0 +1,7 @@
+{
+  "success": false,
+  "message": "存在从属应用，需二次确认",
+  "code": 500,
+  "timestamp": 1559703308062,
+  "result": null
+}

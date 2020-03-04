@@ -1,0 +1,35 @@
+{
+    "success": true,
+    "message": "success",
+    "code": 200,
+    "timestamp": 1568883836802,
+    "result": {
+        "list": [
+            {
+                "projectId": "222",
+                "serviceName": "service3",
+                "maxRetries": "20",
+                "maxNextRetries": 30,
+                "status": true
+            },
+            {
+                "projectId": "222",
+                "serviceName": "dsfvds",
+                "maxRetries": "20",
+                "maxNextRetries": 30,
+                "status": false
+            },
+            {
+                "projectId": "222",
+                "serviceName": "dsfvds",
+                "maxRetries": "20",
+                "maxNextRetries": 30,
+                "status": false
+            }
+        ],
+        "currPage": 1,
+        "pageSize": 6,
+        "totalPage": 11,
+        "total": 62
+    }
+}

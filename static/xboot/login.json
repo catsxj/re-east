@@ -1,0 +1,7 @@
+{
+  "result": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhZG1pbiIsImF1dGhvcml0aWVzIjoiWzkwXSIsImV4cCI6MTU2MDE1MDc2Nn0.Cz_p3YaE7IZkhi2a9lCSGjO5QuT4ceZiUCjvJ8xA3eXG8VO1ZNDWtf7h43uh6VU2FT4LsR6Eg4i9_YHqPazxnQ",
+  "code": 200,
+  "success": true,
+  "message": "登录成功",
+  "timestamp": 1560147166178
+}

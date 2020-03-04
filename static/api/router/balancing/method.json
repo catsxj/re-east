@@ -1,0 +1,12 @@
+{
+    "success": true,
+    "message": "success",
+    "code": 200,
+    "timestamp": 1566962542561,
+    "result": [
+        "sayHello",
+        "echo",
+        "hello",
+        "*"
+    ]
+}

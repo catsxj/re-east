@@ -1,0 +1,29 @@
+{
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "timestamp": 1560153562120,
+  "result": {
+    "total": 1,
+    "list": [
+      {
+        "id": 1,
+        "name": "环境一",
+        "createTime": "2019-6-05 18:05:03",
+        "userId": "798"
+      },
+      {
+        "id": 2,
+        "name": "环境2",
+        "createTime": "2019-6-05 18:02:03",
+        "userId": "798"
+      },
+      {
+        "id": 3,
+        "name": "环境3",
+        "createTime": "2019-6-05 18:04:03",
+        "userId": "798"
+      }
+    ]
+  }
+}

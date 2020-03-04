@@ -1,0 +1,11 @@
+
+
+.trace-table .el-table__expanded-cell {
+  /* background-color: rgba(45,140,240,.098); */
+  background-color: rgba(139,155,225,1);
+  padding: 0!important;
+}
+.trace-table .el-table__expanded-cell:hover {
+  /* background-color: rgba(45,140,240,.098)!important; */
+  background-color: rgba(139,155,225,1)!important;
+}

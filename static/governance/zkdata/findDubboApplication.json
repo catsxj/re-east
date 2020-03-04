@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "timestamp": 1560924829024,
+  "result": {
+    "content": [{
+      "id": "1",
+      "appCode": null,
+      "name": "grpc-test-application",
+      "displayName": null,
+      "description": null,
+      "children": "A9001,A9002,A9003",
+      "envId": 100,
+      "regCenterId": 104,
+      "envName": "环境1",
+      "registryName": "注册中心一"
+    }],
+    "pageable": {
+      "sort": {
+        "unsorted": true,
+        "sorted": false
+      },
+      "pageSize": 6,
+      "pageNumber": 0,
+      "offset": 0,
+      "paged": true,
+      "unpaged": false
+    },
+    "totalElements": 3,
+    "totalPages": 1,
+    "last": true,
+    "first": true,
+    "sort": {
+      "unsorted": true,
+      "sorted": false
+    },
+    "numberOfElements": 3,
+    "size": 6,
+    "number": 0
+  }
+}

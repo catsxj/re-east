@@ -1,0 +1,89 @@
+{
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "timestamp": 1560405964665,
+  "result": {
+    "content": [
+      {
+        "id": 135465864911654910,
+        "name": "注册中心",
+        "type": "001",
+        "version": "1.0",
+        "address": "192.168.2.21:9500",
+        "envId": 1,
+        "frameType": "001",
+        "authUserName": "",
+        "authPassword": "",
+        "userId": 23123123213,
+        "createTime": "2019-04-30 09:45:20",
+        "menderId": "",
+        "updateTime": "",
+        "frameName": "gRPC",
+        "typeName": "zookeeper",
+        "envName": "one222",
+        "userName": "张三"
+      },
+      {
+        "id": 135465864911654910,
+        "name": "注册中心2",
+        "type": "002",
+        "version": "1.0",
+        "address": "192.168.2.21:9500",
+        "envId": 1,
+        "frameType": "001",
+        "authUserName": "",
+        "authPassword": "",
+        "userId": 23123123213,
+        "createTime": "2019-04-30 09:45:20",
+        "menderId": "",
+        "updateTime": "",
+        "frameName": "gRPC",
+        "typeName": "zookeeper",
+        "envName": "one222",
+        "userName": "张三"
+      },
+      {
+        "id": 135465864911654910,
+        "name": "注册中心3",
+        "type": "003",
+        "version": "3.0",
+        "address": "192.168.2.21:9500",
+        "envId": 1,
+        "frameType": "001",
+        "authUserName": "",
+        "authPassword": "",
+        "userId": 23123123213,
+        "createTime": "2019-04-30 09:45:20",
+        "menderId": "",
+        "updateTime": "",
+        "frameName": "gRPC",
+        "typeName": "zookeeper",
+        "envName": "one222",
+        "userName": "张三"
+      }
+    ],
+    "pageable": {
+      "sort": {
+        "unsorted": false,
+        "sorted": true
+      },
+      "pageSize": 6,
+      "pageNumber": 0,
+    "offset": 0,
+    "paged": true,
+    "unpaged": false
+  },
+  "totalElements": 1,
+  "totalPages": 1,
+  "last": true,
+  "first": true,
+  "sort": {
+    "unsorted": false,
+    "sorted": true
+  },
+  "numberOfElements": 1,
+  "size": 6,
+  "number": 0
+  }
+}

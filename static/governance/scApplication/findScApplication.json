@@ -1,0 +1,56 @@
+{
+    "success": true,
+    "message": "success",
+    "code": 200,
+    "timestamp": 1577175366232,
+    "result": {
+        "content": [
+            {
+                "id": 211,
+                "appCode": null,
+                "name": "ww",
+                "displayName": null,
+                "description": null,
+                "children": null,
+                "envId": 112,
+                "regCenterId": 174,
+                "envName": "测试环境",
+                "registryName": "SpringCloud注册中心"
+            },
+            {
+                "id": 212,
+                "appCode": null,
+                "name": "ee",
+                "displayName": null,
+                "description": null,
+                "children": null,
+                "envId": 112,
+                "regCenterId": 174,
+                "envName": "测试环境",
+                "registryName": "SpringCloud注册中心"
+            }
+        ],
+        "pageable": {
+            "sort": {
+                "unsorted": true,
+                "sorted": false
+            },
+            "offset": 0,
+            "pageSize": 6,
+            "pageNumber": 0,
+            "paged": true,
+            "unpaged": false
+        },
+        "totalPages": 1,
+        "last": true,
+        "totalElements": 2,
+        "number": 0,
+        "size": 6,
+        "sort": {
+            "unsorted": true,
+            "sorted": false
+        },
+        "numberOfElements": 2,
+        "first": true
+    }
+}

@@ -1,0 +1,10 @@
+{
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "timestamp": 1560420631575,
+  "result": [
+    "grpc-test-application",
+    "grpc-orientse-governance"
+  ]
+}

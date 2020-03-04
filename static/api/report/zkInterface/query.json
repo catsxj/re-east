@@ -1,0 +1,41 @@
+{
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "timestamp": 1569313127168,
+  "result": {
+    "list": [
+      {
+        "registryCenterId": 148,
+        "applicationName": "grpc-orientsec-governance",
+        "projectName": "grpc-orientsec-synchronization",
+        "service": "com.orientsec.grpc.origin.OverriderHandle",
+        "method": "ConcurrencyControl",
+        "createTime": "2019-09-05 16:55:34",
+        "zkInterface": "com.orientsec.grpc.origin.OverriderHandle.ConcurrencyControl"
+      },
+      {
+        "registryCenterId": 148,
+        "applicationName": "grpc-orientsec-governance",
+        "projectName": "grpc-orientsec-synchronization",
+        "service": "com.orientsec.grpc.origin.OverriderHandle",
+        "method": "ConcurrencyControl",
+        "createTime": "2019-09-05 16:55:34",
+        "zkInterface": "com.orientsec.grpc.origin.OverriderHandle.ConcurrencyControl"
+      },
+      {
+        "registryCenterId": 148,
+        "applicationName": "grpc-orientsec-governance",
+        "projectName": "grpc-orientsec-synchronization",
+        "service": "com.orientsec.grpc.origin.OverriderHandle",
+        "method": "ConcurrencyControl",
+        "createTime": "2019-09-05 16:55:34",
+        "zkInterface": "com.orientsec.grpc.origin.OverriderHandle.ConcurrencyControl"
+      }
+    ],
+    "currPage": 1,
+    "pageSize": 3,
+    "totalPage": 33,
+    "total": 97
+  }
+}

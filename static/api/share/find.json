@@ -1,0 +1,20 @@
+{
+    "success": true,
+    "message": "success",
+    "code": 200,
+    "timestamp": 1581584516519,
+    "result": {
+        "id": 1,
+        "shareId": "d57d41555e0c486b9d0f432647b2627c",
+        "type": "001",
+        "path": "/fileCenter",
+        "protoId": "227580621449334784",
+        "protoName": "zkhandle.proto",
+        "params": {
+            "xxx": "xxx", 
+            "yyy": "yyy" 
+        },
+        "creatorId": "682265633886208",
+        "createTime": "2020-02-13 17:00:45"
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "timestamp": 1568883836802,
+  "result": {
+    "list": [
+      {
+        "rule": "sdfsd",
+        "serviceName": "dsfvds"
+      },
+      {
+        "rule": "sdfsd",
+        "serviceName": "dsfvds"
+      },
+      {
+        "rule": "sdfsd",
+        "serviceName": "dsfvds"
+      }
+    ],
+    "currPage": 1,
+    "pageSize": 6,
+    "totalPage": 11,
+    "total": 62
+  }
+}

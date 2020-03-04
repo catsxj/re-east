@@ -1,0 +1,73 @@
+{
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "timestamp": 1568883836802,
+  "result": {
+    "list": [{
+      "owner": "施小平,袁中林,岳勉",
+      "appName": "grpc-orientsec-governance",
+      "proName": "grpc-orientsec-admin",
+      "zkService": null,
+      "zkInterface": "/api/alarmSetting",
+      "callCount": 44,
+      "responseTime": 0,
+      "alertCount": 0
+    },
+      {
+        "owner": "施小平,袁中林,岳勉",
+        "appName": "grpc-orientsec-governance",
+        "proName": "grpc-orientsec-admin",
+        "zkService": null,
+        "zkInterface": "/api/alert",
+        "callCount": 36,
+        "responseTime": 0,
+        "alertCount": 0
+      },
+      {
+        "owner": "施小平,袁中林,岳勉",
+        "appName": "grpc-orientsec-governance",
+        "proName": "grpc-orientsec-admin",
+        "zkService": null,
+        "zkInterface": "/api/alertHistory",
+        "callCount": 7,
+        "responseTime": 1,
+        "alertCount": 0
+      },
+      {
+        "owner": "施小平,袁中林,岳勉",
+        "appName": "grpc-orientsec-governance",
+        "proName": "grpc-orientsec-admin",
+        "zkService": null,
+        "zkInterface": "/api/app",
+        "callCount": 42,
+        "responseTime": 0,
+        "alertCount": 0
+      },
+      {
+        "owner": "施小平,袁中林,岳勉",
+        "appName": "grpc-orientsec-governance",
+        "proName": "grpc-orientsec-admin",
+        "zkService": null,
+        "zkInterface": "/api/blackwhite",
+        "callCount": 591,
+        "responseTime": 10,
+        "alertCount": 0
+      },
+      {
+        "owner": "施小平,袁中林,岳勉",
+        "appName": "grpc-orientsec-governance",
+        "proName": "grpc-orientsec-admin",
+        "zkService": null,
+        "zkInterface": "/api/datasurvey",
+        "callCount": 16829,
+        "responseTime": 6,
+        "alertCount": 0
+      }
+    ],
+    "currPage": 1,
+    "pageSize": 6,
+    "totalPage": 11,
+    "total": 62
+  }
+}

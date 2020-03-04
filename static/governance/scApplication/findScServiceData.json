@@ -1,0 +1,16 @@
+{
+	"success": true,
+	"message": "负载均衡策略删除成功！",
+	"code": 200,
+	"timestamp": 1568706030037,
+	"result":[
+		"service1",
+		"service2",
+		"service3",
+		"service4",
+		"service5",
+		"service6",
+		"service7"
+	]
+
+}

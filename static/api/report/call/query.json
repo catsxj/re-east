@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "timestamp": 1569216253815,
+  "result": {
+    "list": [{
+      "toAppName": "toApp1",
+      "toProName": "toPro1",
+      "toZkService": "toSer1",
+      "toZkInterface": "toInterface1",
+      "fromAppName": "fromApp1",
+      "fromProName": "fromPro1",
+      "fromZkService": "fromZkService1",
+      "fromZkInterface": "fromZkInterface1",
+      "callCount": 100,
+      "responseTime": 10,
+      "errorCallCount": 100
+    }, {
+      "toAppName": "toApp2",
+      "toProName": "toPro2",
+      "toZkService": "toSer2",
+      "toZkInterface": "toInterface2",
+      "fromAppName": "fromApp2",
+      "fromProName": "fromPro2",
+      "fromZkService": "fromZkService2",
+      "fromZkInterface": "fromZkInterface2",
+      "callCount": 100,
+      "responseTime": 10,
+      "errorCallCount": 100
+    }],
+    "currPage": 1,
+    "pageSize": 6,
+    "totalPage": 1,
+    "total": 2
+  }
+}

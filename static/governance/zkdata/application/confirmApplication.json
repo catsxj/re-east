@@ -1,0 +1,7 @@
+{
+  "success": true,
+  "message": "该应用上有关联的项目信息，如果删除，关联的项目信息会被同时删除",
+  "code": 200,
+  "timestamp": 1561682559365,
+  "result": null
+}

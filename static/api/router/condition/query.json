@@ -1,0 +1,41 @@
+{
+    "success": true,
+    "message": "success",
+    "code": 200,
+    "timestamp": 1566357546463,
+    "result": [
+        {
+            "appId": null,
+            "applicationName": "demo-provider",
+            "serviceKey": null,
+            "priority": 0,
+            "enabled": false,
+            "force": true,
+            "runtime": false,
+            "conditions": "ena111bled: true\nruntime: false\nforce: true\nconditions: \n- '=> host != 172.22.3.91'",
+            "scope": "service"
+        },
+        {
+            "appId": null,
+            "applicationName": null,
+            "serviceKey": "org.apache.dubbo.demo.HelloService",
+            "priority": 0,
+            "enabled": false,
+            "force": true,
+            "runtime": false,
+            "conditions": [],
+            "scope": "service"
+        },
+        {
+            "appId": null,
+            "applicationName": null,
+            "serviceKey": "org.apache.dubbo.demo.DemoService",
+            "priority": 0,
+            "enabled": false,
+            "force": true,
+            "runtime": false,
+            "conditions": [],
+            "scope": "service"
+        }
+    ]
+}

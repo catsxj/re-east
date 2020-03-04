@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "timestamp": 1560420710209,
+  "result": [
+    {
+      "codeCategory": "frame_type",
+      "codeValue": "001",
+      "displayContent": "gRPC",
+      "orderNumber": 1
+    },
+    {
+      "codeCategory": "frame_type",
+      "codeValue": "002",
+      "displayContent": "Dubbo",
+      "orderNumber": 2
+    },
+    {
+      "codeCategory": "frame_type",
+      "codeValue": "003",
+      "displayContent": "Spring Cloud",
+      "orderNumber": 3
+    }
+  ]
+}

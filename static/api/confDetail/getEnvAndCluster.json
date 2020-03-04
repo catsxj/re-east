@@ -1,0 +1,10 @@
+{
+  "success": true,
+  "message": "",
+  "code": 200,
+  "timestamp": 1561682559365,
+  "result": [
+    "DEV/default",
+    "PRO/default"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "timestamp": 1568089642447,
+  "result": {
+    "total": 3,
+    "list": [{
+      "username": "user1",
+      "name": "张三",
+      "count": "10"
+    }, {
+      "username": "user2",
+      "name": "李四",
+      "count": "10"
+    }, {
+      "username": "user3",
+      "name": "王五",
+      "count": "10"
+    }]
+  }
+}

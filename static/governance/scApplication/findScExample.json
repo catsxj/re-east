@@ -1,0 +1,70 @@
+{
+	"success": true,
+	"message": "success",
+	"code": 200,
+	"timestamp": 1581413272408,
+	"result": {
+		"content": [{
+			"id": 185348,
+			"application": "test-demo-应用",
+			"project": "producer-ym-SC",
+			"category": "providers",
+			"zkinterface": "producer-ym",
+			"owner": null,
+			"pid": null,
+			"side": "provider",
+			"serviceVersion": null,
+			"ip": "10.45.0.229",
+			"port": 40041,
+			"status": null,
+			"url": "springcloud://10.45.0.229:40041/producer-ym?serviceId=producer-ym-10-45-0-229-40041&node=consul-server03&datacenter=dc1",
+			"createTime": "2020-01-09 13:20:24",
+			"projectId": 263,
+			"timeStamp": null,
+			"configurator": null,
+			"check": null,
+			"connectionType": null,
+			"connectNum": null,
+			"ipStatus": null,
+			"interfaces": null,
+			"interfaceMethod": null,
+			"connectionNum": null,
+			"requestNum": null,
+			"consumerRequestNum": null,
+			"connectionUrl": null,
+			"requestUrl": null,
+			"consumerRequestUrl": null,
+			"ownerName": null,
+			"envId": null,
+			"envName": null,
+			"regCenterId": 184,
+			"registryCenterName": null,
+			"instanceName": null,
+			"serviceType": null,
+			"directory": null,
+			"selected": false
+		}],
+		"pageable": {
+			"sort": {
+				"unsorted": true,
+				"sorted": false
+			},
+			"pageSize": 8,
+			"pageNumber": 0,
+			"offset": 0,
+			"paged": true,
+			"unpaged": false
+		},
+		"totalElements": 1,
+		"last": true,
+		"totalPages": 1,
+		"first": true,
+		"sort": {
+			"unsorted": true,
+			"sorted": false
+		},
+		"numberOfElements": 1,
+		"size": 8,
+		"number": 0
+	}
+}

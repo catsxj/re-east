@@ -1,0 +1,59 @@
+{
+    "success": true,
+    "message": "success",
+    "code": 200,
+    "timestamp": 1566185033402,
+    "result": {
+        "nodes": [
+            {
+                "id": "1",
+                "name": "service-1",
+                "pid": "1",
+                "pname": "project-1",
+                "isPer": "true",
+                "type": "217"
+            },
+            {
+                "id": "2",
+                "name": "service-2",
+                "pid": "2",
+                "pname": "project-2",
+                "isPer": "true",
+                "type": "217"
+            },
+            {
+                "id": "3",
+                "name": "service-3",
+                "pid": "3",
+                "pname": "project-3",
+                "isPer": "true",
+                "type": "217"
+            },
+            {
+                "id": "4",
+                "name": "service-4",
+                "pid": "4",
+                "pname": "project-4",
+                "isPer": "true",
+                "type": "217"
+            }
+        ],
+        "calls": [
+            {
+                "source": "1",
+                "target": "2",
+                "avgRequestCount": "83.3333"
+            },
+            {
+                "source": "3",
+                "target": "4",
+                "avgRequestCount": "166.6666"
+            },
+            {
+                "source": "1",
+                "target": "4",
+                "avgRequestCount": "250.0000"
+            }
+        ]
+    }
+}

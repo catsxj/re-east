@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "timestamp": 1560420631575,
+  "result": [
+    "com.orientsec.grpc.demo.helloworld.Greeter",
+    "com.orientsec.grpc.origin.AccessHandle"
+  ]
+}
+

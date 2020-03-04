@@ -1,0 +1,20 @@
+{
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "timestamp": 1560148953628,
+  "result": [
+    {
+      "id": "90",
+      "createBy": null,
+      "createTime": null,
+      "updateBy": null,
+      "updateTime": null,
+      "delFlag": null,
+      "groupName": "平台管理组",
+      "roleName": "ROLE_MANAGE",
+      "member": null,
+      "canShow": true
+    }
+  ]
+}

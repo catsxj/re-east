@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "timestamp": 1568098867307,
+  "result": [
+    {
+      "id": 1,
+      "title": "平台推广情况",
+      "type": "001",
+      "orderNumber": 1
+    },
+    {
+      "id": 2,
+      "title": "用户登录情况",
+      "type": "002",
+      "orderNumber": 2
+    },
+    {
+      "id": 3,
+      "title": "一段时间内应用的统计数据",
+      "type": "003",
+      "orderNumber": 3
+    },
+    {
+      "id": 4,
+      "title": "查询一段时间内调用方应用的调用情况",
+      "type": "004",
+      "orderNumber": 4
+    },
+    {
+      "id": 5,
+      "title": "查询一段时间内提供方应用被调用情况",
+      "type": "005",
+      "orderNumber": 5
+    },
+    {
+      "id": 6,
+      "title": "服务运行报告",
+      "type": "006",
+      "orderNumber": 6
+    },
+    {
+      "id": 7,
+      "title": "应用接口/服务接口上线时间",
+      "type": "007",
+      "orderNumber": 7
+    }
+  ]
+}

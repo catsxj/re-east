@@ -1,0 +1,100 @@
+{
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "timestamp": 1563257140480,
+  "result": {
+    "content": [{
+      "id": "163393957038919680",
+      "createBy": null,
+      "createTime": "2019-07-16 11:21:36",
+      "updateBy": null,
+      "updateTime": "2019-07-16 11:21:36",
+      "delFlag": 0,
+      "groupName": "JHJH",
+      "roleName": "GROUP_HJHJ",
+      "member": [{
+        "username": "user",
+        "id": "99999999999999999"
+      }],
+      "canShow": true
+    }, {
+      "id": "161626139930923008",
+      "createBy": null,
+      "createTime": "2019-07-11 14:16:56",
+      "updateBy": null,
+      "updateTime": "2019-07-11 14:16:56",
+      "delFlag": 0,
+      "groupName": "单元测试C组ea6b92e5-6db5-4ae8-b05a-04f88d161ee1",
+      "roleName": "GROUP_UNITTEXTCea6b92e5-6db5-4ae8-b05a-04f88d161ee1",
+      "member": [],
+      "canShow": true
+    }, {
+      "id": "58651559285755904",
+      "createBy": null,
+      "createTime": "2019-07-11 14:16:36",
+      "updateBy": null,
+      "updateTime": "2019-07-11 14:16:36",
+      "delFlag": 0,
+      "groupName": "单元测试编辑专用1",
+      "roleName": "GROUP_EDIT1",
+      "member": [],
+      "canShow": true
+    }, {
+      "id": "158301501574352896",
+      "createBy": null,
+      "createTime": "2019-07-02 10:06:00",
+      "updateBy": null,
+      "updateTime": "2019-07-02 10:06:00",
+      "delFlag": 0,
+      "groupName": "DFZQ_DEFAULT_A359",
+      "roleName": "GROUP_A359",
+      "member": [],
+      "canShow": true
+    }, {
+      "id": "156862268397588480",
+      "createBy": null,
+      "createTime": "2019-06-28 10:47:00",
+      "updateBy": null,
+      "updateTime": "2019-06-28 10:47:00",
+      "delFlag": 0,
+      "groupName": "DFZQ_DEFAULT_asxpcs",
+      "roleName": "GROUP_asxpcs",
+      "member": [],
+      "canShow": true
+    }, {
+      "id": "150689679044251648",
+      "createBy": null,
+      "createTime": "2019-06-11 09:59:20",
+      "updateBy": null,
+      "updateTime": "2019-06-11 13:48:52",
+      "delFlag": 0,
+      "groupName": "DFZQ_DEFAULT_zhou1",
+      "roleName": "GROUP_zhoubin",
+      "member": [],
+      "canShow": true
+    }],
+    "pageable": {
+      "sort": {
+        "sorted": true,
+        "unsorted": false
+      },
+      "pageSize": 6,
+      "pageNumber": 0,
+      "offset": 0,
+      "unpaged": false,
+      "paged": true
+    },
+    "totalElements": 30,
+    "last": false,
+    "totalPages": 5,
+    "first": true,
+    "sort": {
+      "sorted": true,
+      "unsorted": false
+    },
+    "numberOfElements": 6,
+    "size": 6,
+    "number": 0
+  }
+}

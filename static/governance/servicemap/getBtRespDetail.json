@@ -1,0 +1,18 @@
+{
+	"success": true,
+	"message": "success",
+	"code": 200,
+	"timestamp": 1566197816737,
+	"result": {
+    "btId": "38",
+    "internalName": "com.orientsec.demo.DubboBalancing.createBalancing",
+    "reqCount": "1276",
+    "errorCalls": "58",
+    "errPercent": "4.54%",
+    "mrespTime": "1.5039",
+    "mreqCount": "20.9180",
+    "proName": "grpc-orientsec-synchronization",
+    "appName": "grpc-orientsec-governance",
+    "errorNum": 2
+  }
+}

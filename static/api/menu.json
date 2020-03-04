@@ -1,0 +1,128 @@
+[
+	{
+		"id": "1101",
+		"label": "数据预览",
+		"perUrl": "/",
+		"permTypes": [],
+		"icon": "el-icon-s-data",
+		"children": []
+	}, {
+		"id": "1102",
+		"label": "服务治理",
+		"perUrl": "/east",
+		"permTypes": [],
+		"icon": "el-icon-menu",
+		"children": []
+	}, {
+		"id": "1103",
+		"label": "系统管理",
+		"perUrl": null,
+		"permTypes": [],
+		"icon": "el-icon-location",
+		"children": [
+			{
+				"id": "11031",
+				"label": "用户管理",
+				"perUrl": "/user",
+				"permTypes": ["add"],
+				"icon": "",
+				"children": []
+			}, {
+				"id": "11032",
+				"label": "角色管理",
+				"perUrl": "/adduser",
+				"permTypes": ["add","delete"],
+				"icon": "",
+				"children": []
+			}, {
+				"id": "11033",
+				"label": "菜单权限管理",
+				"perUrl": "/userlist",
+				"permTypes": [],
+				"icon": "",
+				"children": []
+			}, {
+				"id": "11034",
+				"label": "用户组管理",
+				"perUrl": "/userGroup",
+				"permTypes": [],
+				"icon": "",
+				"children": []
+			}
+		]
+	}, {
+		"id": "1104",
+		"label": "统计分析",
+		"perUrl": "/",
+		"permTypes": [],
+		"icon": "el-icon-menu",
+		"children": []
+	}, {
+		"id": "1105",
+		"label": "服务地图",
+		"perUrl": "/",
+		"permTypes": [],
+		"icon": "el-icon-document",
+		"children": []
+	}, {
+		"id": "1105",
+		"label": "事件管理",
+		"perUrl": null,
+		"permTypes": [],
+		"icon": "el-icon-location",
+		"children": [
+			{
+				"id": "11051",
+				"label": "事件概括",
+				"perUrl": "/",
+				"permTypes": [],
+				"icon": "",
+				"children": []
+			}, {
+				"id": "11052",
+				"label": "告警历史",
+				"perUrl": "/",
+				"permTypes": [],
+				"icon": "",
+				"children": []
+			}, {
+				"id": "11053",
+				"label": "告警规则",
+				"perUrl": null,
+				"permTypes": [],
+				"icon": "",
+				"children": [
+					{
+						"id": "110531",
+						"label": "新增",
+						"perUrl": "/",
+						"permTypes": [],
+						"icon": "",
+						"children": []
+					}
+				]
+			}, {
+				"id": "11054",
+				"label": "审计日志",
+				"perUrl": "/",
+				"permTypes": [],
+				"icon": "",
+				"children": []
+			}
+		]
+	}, {
+		"id": "1106",
+		"label": "文档平台",
+		"perUrl": "/",
+		"permTypes": [],
+		"icon": "el-icon-document",
+		"children": []
+	}, {
+		"id": "1107",
+		"label": "用户管理",
+		"perUrl": "/",
+		"permTypes": [],
+		"icon": "el-icon-document",
+		"children": []
+	}
+]

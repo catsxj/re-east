@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "timestamp": 1560924829024,
+  "result": [
+    "机房A1",
+    "机房A2",
+    "机房B1",
+    "机房B2"
+  ]
+}

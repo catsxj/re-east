@@ -1,0 +1,29 @@
+{
+    "success": true,
+    "message": "success",
+    "code": 200,
+    "timestamp": 1566357546463,
+    "result": [
+        {
+            "appId": null,
+            "applicationName": "demo-provider",
+            "serviceKey": null,
+            "whitelist":["1.1.1.1","2.2.2.2"],
+            "blacklist":["3.3.3.3","4.4.4.4"]
+        },
+        {
+            "appId": null,
+            "applicationName": null,
+            "serviceKey": "service12343",
+            "whitelist":["1.1.1.1","2.2.2.2"],
+            "blacklist":["3.3.3.3","4.4.4.4"]
+        },
+        {
+            "appId": null,
+            "applicationName": null,
+            "serviceKey": "hello.service",
+            "whitelist":["1.1.1.1","2.2.2.2"],
+            "blacklist":["3.3.3.3","4.4.4.4"]
+        }
+    ]
+}

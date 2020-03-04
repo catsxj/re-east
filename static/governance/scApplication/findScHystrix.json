@@ -1,0 +1,38 @@
+{
+    "success": true,
+    "message": "success",
+    "code": 200,
+    "timestamp": 1568883836802,
+    "result": {
+        "list": [
+            {
+                "forcedOpen": "true",
+                "forcedClose": "false",
+                "apiKey": "dsgfdsa",
+                "failureRate": 30,
+                "requestCount": "20",
+                "status": "open"
+            },
+            {
+                "forcedOpen": "true",
+                "forcedClose": "false",
+                "apiKey": "dsgfdsa",
+                "failureRate": 30,
+                "requestCount": "20",
+                "status": "close"
+            },
+            {
+                "forcedOpen": "true",
+                "forcedClose": "false",
+                "apiKey": "dsgfdsa",
+                "failureRate": 30,
+                "requestCount": "20",
+                "status": "default"
+            }
+        ],
+        "currPage": 1,
+        "pageSize": 6,
+        "totalPage": 11,
+        "total": 62
+    }
+}

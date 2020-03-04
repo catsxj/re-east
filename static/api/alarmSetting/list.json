@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "message": "success",
+  "code": 200,
+  "timestamp": 1560495015541,
+  "result": [{
+    "id":1,
+    "type":"001",
+    "appName":"grpc-test-application",
+    "projectName":"grpc-test-project",
+    "serviceName":"com.orientesc.grpc.demo.helloworld.Greeter",
+    "enableSms":true,
+    "creatorId": "682265633886208",
+    "createTime": "2019-07-01 15:25:56",
+    "menderId":null,
+    "updateTime":null
+  },
+    {
+      "id":2,
+      "type":"001",
+      "appName":"grpc-orientse-governance",
+      "projectName":"grpc-orientsec-admin",
+      "serviceName":"com.orientsec.grpc.origin.AccessHandle" ,
+      "enableSms":false,
+      "creatorId": "682265633886208",
+      "createTime": "2019-07-01 15:26:56",
+      "menderId":null,
+      "updateTime":null
+    }
+  ]
+}
