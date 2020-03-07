@@ -9,8 +9,10 @@ import router from './router'
 import '@/assets/css/style.css'
 import axios, { AxiosInstance } from 'axios'
 import instance from '@/plugins/MyAxios'
+import MyRequest from '@/urlConf/Myrequest'
 
 Vue.use(ElementUI);
+
 
 Vue.config.productionTip = false
 

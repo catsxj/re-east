@@ -4,10 +4,9 @@
     <el-form :model="form" ref="loginform" class="login-form" label-position="top">
       <div class="l-left">
         <span class="top"></span>
-        <img src="@/img/logo5.png" alt />
       </div>
       <div class="l-right">
-        <h4 class="h-title">服务治理平台-星辰111</h4>
+        <h4 class="h-title">DEMO</h4>
         <div class="x-from ss-mr">
           <el-form-item prop="username" class="user-inp" style="position: relative;">
             <el-input size="small" placeholder="用户名" v-model="form.username" id="oUser" autocomplete="off"></el-input>
@@ -30,21 +29,40 @@
 <script lang="ts">
   import Vue from 'vue'
   import Component from 'vue-class-component'
+  import MyRequestClass from '@/urlConf/MyRequest'
+  import {
+    urlType
+  } from '@/common/actions'
 
+  @urlType("xboot.user.info")
+  class LoginClass extends MyRequestClass {
+    constructor(fn: object, res: Function) {
+      super(fn, res);
+    }
+  }
+  
   @Component
   export default class HelloWorld extends Vue {
-    test = "test vue-typescript11"
+    test = "DEMO-VUE-TYPESCRIPT"
     loading = false
     form = {
       username: "",
       password: "",
     }
 
-    mounted(){
+
+    mounted() {
+
+      // console.log((this as any).$http)
     }
 
     handleLogin(form) {
       this.loading = true
+      new LoginClass({}, this.getRes)
+    }
+
+    getRes(res) {
+      console.log(res);
     }
   }
 </script>
